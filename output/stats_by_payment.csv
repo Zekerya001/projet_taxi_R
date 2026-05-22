@@ -1,0 +1,6 @@
+payment_label,n_trips,pct,avg_fare,avg_tip,avg_total
+Carte de crédit,300928,64.6,11.87,2.81,18.31
+Espèces,160843,34.5,11.22,0,14.45
+Aucun frais,2861,0.6,12.35,0,15.71
+Dispute,933,0.2,13.51,0.01,16.91
+Inconnu,12,0,17.96,0,21.64
